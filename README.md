@@ -1,0 +1,1 @@
+This works as of October 2023. I found most other emoji export libraries don't work with Slack's current web APIs.
